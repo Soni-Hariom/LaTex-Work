@@ -1,0 +1,4357 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2021.10.7)  23 AUG 2022 07:15
+entering extended mode
+**"./Pattern Recognition.tex"
+("Pattern Recognition.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamer.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasercs.sty"
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemodes.sty"
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasedecode.sty"
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoptions.sty"
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box34
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count113
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen158
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen162
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count115
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty"
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `implicit' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count121
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count122
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaserequires.sty"
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecompatibility.sty
+"
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasefont.sty"
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty"
+Package: sansmathaccent 2013/03/28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\filehook\filehook.sty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetranslator.sty"
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
+age-mappings.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemisc.sty"
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetwoscreens.sty"
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoverlay.sty"
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetitle.sty"
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasesection.sty"
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframe.sty"
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count136
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseverbatim.sty"
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframesize.sty"
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframecomponents.s
+ty"
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box44
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecolor.sty"
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenotes.sty"
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box45
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetoc.sty"
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetemplates.sty"
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks30
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseauxtemplates.sty"
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseboxes.sty"
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbaselocalstructure.st
+y"
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenavigation.sty"
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen176
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetheorems.sty"
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks32
+\ex@=\dimen177
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen178
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks33
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count152
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\beamerbasethemes.sty"
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerthemedef
+ault.sty"
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\font\beamerfonttheme
+default.sty"
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamercolorthe
+medefault.sty"
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerinnerthe
+medefault.sty"
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerouterthe
+medefault.sty"
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\multimedia\multimedia.sty"
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count153
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\animate\animate.sty"
+Package: animate 2015/11/02 PDF animations from files and inline graphics
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\ifdraft.sty"
+Package: ifdraft 2008/08/11 v1.3 Detect class options draft and final (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen188
+\calc@Bdimen=\dimen189
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip59
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atenddvi.sty"
+Package: atenddvi 2007/04/17 v1.1 At end DVI hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-abspage.sty"
+Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-base.sty"
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count157
+Package zref Info: New property: abspage on input line 62.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-lastpage.sty"
+Package: zref-lastpage 2012/04/04 v2.24 Module lastpage for zref (HO)
+Package zref Info: New property list: LastPage on input line 55.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\animate\animfp.sty"
+Package: animfp 2009/07/23 fixed point addition for animate.sty
+\afp@xs=\count158
+\afp@xia=\count159
+\afp@xib=\count160
+\afp@xfa=\count161
+\afp@xfb=\count162
+\afp@rega=\count163
+\afp@regb=\count164
+\afp@regs=\count165
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2015/11/04 v6224 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2015/11/04 v6224 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/10/18 v6213 L3 Bootstrap code
+L3 Module: l3names 2015/11/03 v6220 L3 Namespace for primitives
+L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2015/09/20 v6021 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2015/09/25 v6089 L3 Integers
+\c_max_int=\count166
+\l_tmpa_int=\count167
+\l_tmpb_int=\count168
+\g_tmpa_int=\count169
+\g_tmpb_int=\count170
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count171
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/09/28 v6114 L3 Experimental token manipulation
+L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/09/23 v6037 L3 File and I/O operations
+\l_iow_line_count_int=\count172
+\l__iow_target_count_int=\count173
+\l__iow_current_line_int=\count174
+\l__iow_current_word_int=\count175
+\l__iow_current_indentation_int=\count176
+L3 Module: l3skip 2015/09/25 v6089 L3 Dimensions and skips
+\c_zero_dim=\dimen190
+\c_max_dim=\dimen191
+\l_tmpa_dim=\dimen192
+\l_tmpb_dim=\dimen193
+\g_tmpa_dim=\dimen194
+\g_tmpb_dim=\dimen195
+\c_zero_skip=\skip60
+\c_max_skip=\skip61
+\l_tmpa_skip=\skip62
+\l_tmpb_skip=\skip63
+\g_tmpa_skip=\skip64
+\g_tmpb_skip=\skip65
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2015/09/23 v6037 L3 Key-value interfaces
+\g__keyval_level_int=\count177
+\l_keys_choice_int=\count178
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count179
+\c__fp_middle_shift_int=\count180
+\c__fp_trailing_shift_int=\count181
+\c__fp_big_leading_shift_int=\count182
+\c__fp_big_middle_shift_int=\count183
+\c__fp_big_trailing_shift_int=\count184
+\c__fp_Bigg_leading_shift_int=\count185
+\c__fp_Bigg_middle_shift_int=\count186
+\c__fp_Bigg_trailing_shift_int=\count187
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box53
+\l_tmpa_box=\box54
+\l_tmpb_box=\box55
+\g_tmpa_box=\box56
+\g_tmpb_box=\box57
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box58
+\l__coffin_internal_dim=\dimen196
+\l__coffin_offset_x_dim=\dimen197
+\l__coffin_offset_y_dim=\dimen198
+\l__coffin_x_dim=\dimen199
+\l__coffin_y_dim=\dimen256
+\l__coffin_x_prime_dim=\dimen257
+\l__coffin_y_prime_dim=\dimen258
+\c_empty_coffin=\box59
+\l__coffin_aligned_coffin=\box60
+\l__coffin_aligned_internal_coffin=\box61
+\l_tmpa_coffin=\box62
+\l_tmpb_coffin=\box63
+\l__coffin_display_coffin=\box64
+\l__coffin_display_coord_coffin=\box65
+\l__coffin_display_pole_coffin=\box66
+\l__coffin_display_offset_dim=\dimen259
+\l__coffin_display_x_dim=\dimen260
+\l__coffin_display_y_dim=\dimen261
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2015/11/01 v6216 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen262
+\l__box_bottom_dim=\dimen263
+\l__box_left_dim=\dimen264
+\l__box_right_dim=\dimen265
+\l__box_top_new_dim=\dimen266
+\l__box_bottom_new_dim=\dimen267
+\l__box_left_new_dim=\dimen268
+\l__box_right_new_dim=\dimen269
+\l__box_internal_box=\box67
+\l__coffin_bounding_shift_dim=\dimen270
+\l__coffin_left_corner_dim=\dimen271
+\l__coffin_right_corner_dim=\dimen272
+\l__coffin_bottom_corner_dim=\dimen273
+\l__coffin_top_corner_dim=\dimen274
+\l__coffin_scaled_total_height_dim=\dimen275
+\l__coffin_scaled_width_dim=\dimen276
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3luatex 2015/09/10 v5983 L3 Experimental LuaTeX-specific functions
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3unicode-data.def"
+File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count188
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2015/11/04 v6224 LaTeX2e option processing using LaTeX3 keys
+)
+Package: ocgbase 2015/12/07 v0.5 support package for ocgx2.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\media9\pdfbase.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3regex.sty"
+Package: l3regex 2015/11/04 v6224 L3 Experimental regular expressions
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-build.sty"
+Package: l3tl-build 2015/11/04 v6224 L3 Experimental token list construction
+\l__tl_build_start_index_int=\count189
+\l__tl_build_index_int=\count190
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-analysis.sty"
+Package: l3tl-analysis 2015/09/26 v6106 L3 Experimental token lists analysis
+\l__tl_analysis_normal_int=\count191
+\l__tl_analysis_index_int=\count192
+\l__tl_analysis_nesting_int=\count193
+\l__tl_analysis_type_int=\count194
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3flag.sty"
+Package: l3flag 2015/11/04 v6224 L3 Experimental flags
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str-convert.sty"
+Package: l3str-convert 2015/09/26 v6106 L3 Experimental string encoding convers
+ions
+\l__str_internal_int=\count195
+\c__str_replacement_char_int=\count196
+)
+\l__regex_internal_a_int=\count197
+\l__regex_internal_b_int=\count198
+\l__regex_internal_c_int=\count199
+\l__regex_balance_int=\count266
+\l__regex_group_level_int=\count267
+\l__regex_mode_int=\count268
+\l__regex_catcodes_int=\count269
+\l__regex_default_catcodes_int=\count270
+\c__regex_catcode_D_int=\count271
+\c__regex_catcode_S_int=\count272
+\c__regex_catcode_L_int=\count273
+\c__regex_catcode_O_int=\count274
+\c__regex_catcode_A_int=\count275
+\c__regex_all_catcodes_int=\count276
+\l__regex_show_lines_int=\count277
+\l__regex_min_state_int=\count278
+\l__regex_max_state_int=\count279
+\l__regex_left_state_int=\count280
+\l__regex_right_state_int=\count281
+\l__regex_capturing_group_int=\count282
+\l__regex_min_pos_int=\count283
+\l__regex_max_pos_int=\count284
+\l__regex_current_pos_int=\count285
+\l__regex_start_pos_int=\count286
+\l__regex_success_pos_int=\count287
+\l__regex_current_char_int=\count288
+\l__regex_current_catcode_int=\count289
+\l__regex_last_char_int=\count290
+\l__regex_case_changed_char_int=\count291
+\l__regex_current_state_int=\count292
+\l__regex_step_int=\count293
+\l__regex_min_active_int=\count294
+\l__regex_max_active_int=\count295
+\l__regex_replacement_csnames_int=\count296
+\l__regex_match_count_int=\count297
+\l__regex_submatch_int=\count298
+\l__regex_zeroth_submatch_int=\count299
+)
+Package: pdfbase 2015/11/23 v0.3 driver independent access to low-level PDF fea
+tures
+\g_pbs_oc_int=\count300
+)) ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen277
+\scratchbox=\box68
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen278
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks44
+)
+\@anim@box=\box69
+\@anim@measbox=\box70
+\@anim@tmpdima=\dimen279
+\@anim@tmpdimb=\dimen280
+\@anim@num=\count307
+\@anim@curframe=\count308
+\@anim@curframe@zb=\count309
+\@anim@resizeflags=\count310
+\@anim@skipfram=\count311
+\@anim@mulframecnt=\count312
+\@anim@@tmlnfile=\read2
+\@anim@tmpcnt=\count313
+\c@@anim@ltxcnt=\count314
+\@anim@curlayer=\count315
+\@anim@lineno=\count316
+\@anim@curfield=\count317
+\@anim@@resizeflags=\count318
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box71
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen281
+\pgf@nodesepend=\dimen282
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen283
+\pgffor@skip=\dimen284
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count319
+\pgfplotmarksize=\dimen285
+)
+\tikz@lastx=\dimen286
+\tikz@lasty=\dimen287
+\tikz@lastxsaved=\dimen288
+\tikz@lastysaved=\dimen289
+\tikzleveldistance=\dimen290
+\tikzsiblingdistance=\dimen291
+\tikz@figbox=\box72
+\tikz@figbox@bg=\box73
+\tikz@tempbox=\box74
+\tikz@tempbox@bg=\box75
+\tikztreelevel=\count320
+\tikznumberofchildren=\count321
+\tikznumberofcurrentchild=\count322
+\tikz@fig@count=\count323
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count324
+\pgfmatrixcurrentcolumn=\count325
+\pgf@matrix@numberofcolumns=\count326
+)
+\tikz@expandcount=\count327
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks47
+\verbatim@line=\toks48
+\verbatim@in@stream=\read3
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytrees.code.tex"
+File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.t
+ex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen292
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarychains.code.tex"
+File: tikzlibrarychains.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.6)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarydecorations.pathreplacing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarydecorations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecorations.code
+.tex"
+\pgfdecoratedcompleteddistance=\dimen293
+\pgfdecoratedremainingdistance=\dimen294
+\pgfdecoratedinputsegmentcompleteddistance=\dimen295
+\pgfdecoratedinputsegmentremainingdistance=\dimen296
+\pgf@decorate@distancetomove=\dimen297
+\pgf@decorate@repeatstate=\count328
+\pgfdecorationsegmentamplitude=\dimen298
+\pgfdecorationsegmentlength=\dimen299
+)
+\tikz@lib@dec@box=\box76
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibraryd
+ecorations.pathreplacing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarydecorations.pathmorphing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibraryd
+ecorations.pathmorphing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.callouts.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.callouts.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
+.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box77
+\pgfnodeparttwobox=\box78
+\pgfnodepartthreebox=\box79
+\pgfnodepartfourbox=\box80
+\pgfnodeparttwentybox=\box81
+\pgfnodepartnineteenbox=\box82
+\pgfnodeparteighteenbox=\box83
+\pgfnodepartseventeenbox=\box84
+\pgfnodepartsixteenbox=\box85
+\pgfnodepartfifteenbox=\box86
+\pgfnodepartfourteenbox=\box87
+\pgfnodepartthirteenbox=\box88
+\pgfnodeparttwelvebox=\box89
+\pgfnodepartelevenbox=\box90
+\pgfnodeparttenbox=\box91
+\pgfnodepartninebox=\box92
+\pgfnodeparteightbox=\box93
+\pgfnodepartsevenbox=\box94
+\pgfnodepartsixbox=\box95
+\pgfnodepartfivebox=\box96
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarymatrix.code.tex"
+File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerthemeWar
+saw.sty"
+Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerinnerthe
+merounded.sty"
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerouterthe
+meshadow.sty"
+Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerouterthe
+mesplit.sty"
+Package: beamerouterthemesplit 2012/10/16  (rcs-revision 51a8c72084af)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamercolorthe
+meorchid.sty"
+Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamercolorthe
+mewhale.sty"
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamercolorthe
+mestructure.sty"
+Package: beamercolorthemestructure 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\kantlipsum\kantlipsum.sty"
+Package: kantlipsum 2012/10/14 v0.6 Dummy text in Kantian style
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2015/11/04 v6224 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count329
+\l__xparse_m_args_int=\count330
+\l__xparse_mandatory_args_int=\count331
+\l__xparse_processor_int=\count332
+\l__xparse_v_nesting_int=\count333
+)
+\l_kgl_start_int=\count334
+\l_kgl_end_int=\count335
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kant with sig. 's>{\SplitArgument {1}{-}}O{1-7}' on line
+. 86.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kantdef with sig. 'mm' on line 101.
+.................................................
+.................................................
+. kantlipsum info: "how-many"
+. 
+. The package provides paragraphs 1 to 164. Values outside this range will be
+. ignored.
+.................................................
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@underline' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hbox' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+("Pattern Recognition.aux")
+\openout1 = `"Pattern Recognition.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box97
+Package hyperref Info: Link coloring OFF on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count336
+)
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
+
+("Pattern Recognition.out") ("Pattern Recognition.out")
+\@outlinefile=\write5
+\openout5 = `"Pattern Recognition.out"'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 86.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 86.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 8
+6.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+86.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-basic-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-bibliography-dictionary\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-environment-dictionary\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-months-dictionary\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-numbers-dictionary\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-theorem-dictionary\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 86.
+
+("Pattern Recognition.nav")
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+<mlnc.png, id=16, 48.18pt x 48.6618pt>
+File: mlnc.png Graphic file (type png)
+ <use mlnc.png>
+Package pdftex.def Info: mlnc.png used on input line 116.
+(pdftex.def)             Requested size: 37.64432pt x 38.02063pt.
+
+<du.jpg, id=18, 545.03625pt x 481.8pt>
+File: du.jpg Graphic file (type jpg)
+ <use du.jpg>
+Package pdftex.def Info: du.jpg used on input line 116.
+(pdftex.def)             Requested size: 49.16487pt x 43.45569pt.
+
+Overfull \hbox (50.64783pt too wide) detected at line 116
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+<thmb.jpg, id=25, 475.7775pt x 297.11pt>
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 116.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 116.
+
+[1
+
+{C:/Users/POORVI/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./thmb.jpg
+> <./mlnc.png> <./du.jpg>]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [2
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [3
+
+]
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [4
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [5
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [6
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[7
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 184.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [8
+
+] <cont.png, id=249, 513.92pt x 513.92pt>
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [9
+
+ <./cont.png>]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [10
+
+]
+File: cont.png Graphic file (type png)
+
+<use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [11
+
+]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [12
+
+]
+File: cont.png Graphic file (type png)
+
+<use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [13
+
+]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [14
+
+]
+File: cont.png Graphic file (type png)
+
+<use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [15
+
+]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [16
+
+]
+File: cont.png Graphic file (type png)
+
+<use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [17
+
+]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [18
+
+]
+File: cont.png Graphic file (type png)
+
+<use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [19
+
+]
+File: cont.png Graphic file (type png)
+ <use cont.png>
+Package pdftex.def Info: cont.png used on input line 217.
+(pdftex.def)             Requested size: 61.45703pt x 61.45601pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 217.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [20
+
+]
+<intro.jpg, id=565, 475.7775pt x 415.5525pt>
+File: intro.jpg Graphic file (type jpg)
+ <use intro.jpg>
+Package pdftex.def Info: intro.jpg used on input line 243.
+(pdftex.def)             Requested size: 153.64493pt x 134.19695pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 243.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[21
+
+ <./intro.jpg>]
+File: intro.jpg Graphic file (type jpg)
+ <use intro.jpg>
+Package pdftex.def Info: intro.jpg used on input line 243.
+(pdftex.def)             Requested size: 153.64493pt x 134.19695pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 243.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [22
+
+]
+File: intro.jpg Graphic file (type jpg)
+ <use intro.jpg>
+Package pdftex.def Info: intro.jpg used on input line 243.
+(pdftex.def)             Requested size: 153.64493pt x 134.19695pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 243.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [23
+
+]
+File: intro.jpg Graphic file (type jpg)
+ <use intro.jpg>
+Package pdftex.def Info: intro.jpg used on input line 243.
+(pdftex.def)             Requested size: 153.64493pt x 134.19695pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 243.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [24
+
+]
+<finger.jpg, id=671, 475.7775pt x 317.185pt>
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+
+<hand.jpg, id=672, 572.89032pt x 331.2375pt>
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+
+<dna.jpg, id=673, 246.6816pt x 154.176pt>
+File: dna.jpg Graphic file (type jpg)
+ <use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [25
+
+ <./finger.jpg> <./hand.jpg> <./dna.jpg>]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [26
+
+]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [27
+
+]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [28
+
+]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [29
+
+]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [30
+
+]
+File: finger.jpg Graphic file (type jpg)
+ <use finger.jpg>
+Package pdftex.def Info: finger.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 61.45638pt.
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 53.30234pt.
+File: dna.jpg Graphic file (type jpg)
+
+<use dna.jpg>
+Package pdftex.def Info: dna.jpg used on input line 285.
+(pdftex.def)             Requested size: 92.1879pt x 57.61588pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 285.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [31
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [32
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [33
+
+]
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [34
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [35
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [36
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 304.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[37
+
+] <./ani-1.jpg> <./ani-2.jpg> <./ani-3.jpg> <./ani-4.jpg> <./ani-5.jpg>
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 322.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [38
+
+]
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 359
+.
+LaTeX Font Info:    No file OMLcmss.fd. on input line 359.
+
+
+LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textgreater' on input line 359.
+
+<feye.jpg, id=1074, 351.3125pt x 351.3125pt>
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+
+<eye.png, id=1075, 586.19pt x 430.60875pt>
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[39
+
+ <./feye.jpg> <./eye.png>]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[40
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [41
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+
+<use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [42
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[43
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [44
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+
+<use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [45
+
+]
+File: feye.jpg Graphic file (type jpg)
+ <use feye.jpg>
+Package pdftex.def Info: feye.jpg used on input line 359.
+(pdftex.def)             Requested size: 92.1879pt x 92.18607pt.
+File: eye.png Graphic file (type png)
+ <use eye.png>
+Package pdftex.def Info: eye.png used on input line 359.
+(pdftex.def)             Requested size: 122.91406pt x 90.28595pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[46
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [47
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [48
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [49
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [50
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [51
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [52
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [53
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [54
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [55
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [56
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [57
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [58
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [59
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [60
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [61
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [62
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [63
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [64
+
+]
+Overfull \hbox (50.64783pt too wide) detected at line 425
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 425.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [65
+
+] <sta.jpg, id=1785, 746.01291pt x 559.50967pt>
+File: sta.jpg Graphic file (type jpg)
+
+<use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+ <syn.png, id=1786, 308.65312pt x 164.86594pt>
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+
+<tem.jpg, id=1787, 300.12125pt x 150.5625pt>
+File: tem.jpg Graphic file (type jpg)
+ <use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+
+<neu.png, id=1788, 770.88pt x 1027.84pt>
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [66
+
+ <./sta.jpg> <./syn.png> <./tem.jpg> <./neu.png>]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [67
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [68
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [69
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [70
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [71
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [72
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [73
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [74
+
+]
+File: sta.jpg Graphic file (type jpg)
+ <use sta.jpg>
+Package pdftex.def Info: sta.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 46.08498pt.
+File: syn.png Graphic file (type png)
+ <use syn.png>
+Package pdftex.def Info: syn.png used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 32.82669pt.
+File: tem.jpg Graphic file (type jpg)
+
+<use tem.jpg>
+Package pdftex.def Info: tem.jpg used on input line 484.
+(pdftex.def)             Requested size: 61.45703pt x 30.83104pt.
+File: neu.png Graphic file (type png)
+ <use neu.png>
+Package pdftex.def Info: neu.png used on input line 484.
+(pdftex.def)             Requested size: 30.73085pt x 40.96544pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 484.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [75
+
+]
+<cla.jpg, id=2053, 614.295pt x 735.74875pt>
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+
+<class.png, id=2054, 769.87625pt x 419.5675pt>
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[76
+
+ <./cla.jpg> <./class.png>]
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[77
+
+]
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [78
+
+]
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+File: class.png Graphic file (type png)
+
+<use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [79
+
+]
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [80
+
+]
+File: cla.jpg Graphic file (type jpg)
+ <use cla.jpg>
+Package pdftex.def Info: cla.jpg used on input line 523.
+(pdftex.def)             Requested size: 92.1879pt x 110.41368pt.
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 523.
+(pdftex.def)             Requested size: 122.91406pt x 66.98491pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 523.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [81
+
+]
+<sup.png, id=2212, 604.2575pt x 319.1925pt>
+File: sup.png Graphic file (type png)
+ <use sup.png>
+Package pdftex.def Info: sup.png used on input line 540.
+(pdftex.def)             Requested size: 153.64493pt x 81.16165pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 540.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[82
+
+ <./sup.png>]
+File: sup.png Graphic file (type png)
+ <use sup.png>
+Package pdftex.def Info: sup.png used on input line 540.
+(pdftex.def)             Requested size: 153.64493pt x 81.16165pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 540.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [83
+
+]
+File: sup.png Graphic file (type png)
+ <use sup.png>
+Package pdftex.def Info: sup.png used on input line 540.
+(pdftex.def)             Requested size: 153.64493pt x 81.16165pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 540.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [84
+
+]
+File: sup.png Graphic file (type png)
+ <use sup.png>
+Package pdftex.def Info: sup.png used on input line 540.
+(pdftex.def)             Requested size: 153.64493pt x 81.16165pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 540.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [85
+
+]
+File: sup.png Graphic file (type png)
+ <use sup.png>
+Package pdftex.def Info: sup.png used on input line 540.
+(pdftex.def)             Requested size: 153.64493pt x 81.16165pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 540.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [86
+
+] <uns.jpeg, id=2345, 640.3925pt x 480.79625pt>
+File: uns.jpeg Graphic file (type jpg)
+
+<use uns.jpeg>
+Package pdftex.def Info: uns.jpeg used on input line 557.
+(pdftex.def)             Requested size: 153.64493pt x 115.34943pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 557.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [87
+
+ <./uns.jpeg>]
+File: uns.jpeg Graphic file (type jpg)
+ <use uns.jpeg>
+Package pdftex.def Info: uns.jpeg used on input line 557.
+(pdftex.def)             Requested size: 153.64493pt x 115.34943pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 557.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[88
+
+]
+File: uns.jpeg Graphic file (type jpg)
+ <use uns.jpeg>
+Package pdftex.def Info: uns.jpeg used on input line 557.
+(pdftex.def)             Requested size: 153.64493pt x 115.34943pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 557.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [89
+
+]
+File: uns.jpeg Graphic file (type jpg)
+ <use uns.jpeg>
+Package pdftex.def Info: uns.jpeg used on input line 557.
+(pdftex.def)             Requested size: 153.64493pt x 115.34943pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 557.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [90
+
+]
+<fing.jpg, id=2450, 752.8125pt x 381.425pt>
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+
+<fin.jpg, id=2452, 640.3925pt x 480.79625pt>
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[91
+
+ <./fing.jpg> <./fin.jpg>]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[92
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [93
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+
+<use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [94
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[95
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [96
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+
+<use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [97
+
+]
+File: fing.jpg Graphic file (type jpg)
+ <use fing.jpg>
+Package pdftex.def Info: fing.jpg used on input line 590.
+(pdftex.def)             Requested size: 129.82751pt x 65.77841pt.
+File: fin.jpg Graphic file (type jpg)
+ <use fin.jpg>
+Package pdftex.def Info: fin.jpg used on input line 590.
+(pdftex.def)             Requested size: 76.82246pt x 57.67104pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 590.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[98
+
+] <ocr.jpg, id=2671, 301.125pt x 168.63pt>
+File: ocr.jpg Graphic file (type jpg)
+ <use ocr.jpg>
+Package pdftex.def Info: ocr.jpg used on input line 608.
+(pdftex.def)             Requested size: 245.83282pt x 137.6728pt.
+
+Overfull \vbox (3.05957pt too high) detected at line 608
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 608.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [99
+
+ <./ocr.jpg>]
+File: ocr.jpg Graphic file (type jpg)
+ <use ocr.jpg>
+Package pdftex.def Info: ocr.jpg used on input line 608.
+(pdftex.def)             Requested size: 245.83282pt x 137.6728pt.
+
+Overfull \vbox (3.05957pt too high) detected at line 608
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 608.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [100
+
+]
+File: ocr.jpg Graphic file (type jpg)
+ <use ocr.jpg>
+Package pdftex.def Info: ocr.jpg used on input line 608.
+(pdftex.def)             Requested size: 245.83282pt x 137.6728pt.
+
+Overfull \vbox (3.05957pt too high) detected at line 608
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 608.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [101
+
+]
+File: ocr.jpg Graphic file (type jpg)
+ <use ocr.jpg>
+Package pdftex.def Info: ocr.jpg used on input line 608.
+(pdftex.def)             Requested size: 245.83282pt x 137.6728pt.
+
+Overfull \vbox (3.05957pt too high) detected at line 608
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 608.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [102
+
+]
+File: ocr.jpg Graphic file (type jpg)
+ <use ocr.jpg>
+Package pdftex.def Info: ocr.jpg used on input line 608.
+(pdftex.def)             Requested size: 245.83282pt x 137.6728pt.
+
+Overfull \vbox (3.05957pt too high) detected at line 608
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 608.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [103
+
+] <spee.png, id=2804, 407.6028pt x 169.1118pt>
+File: spee.png Graphic file (type png)
+
+<use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [104
+
+ <./spee.png>]
+File: spee.png Graphic file (type png)
+ <use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[105
+
+]
+File: spee.png Graphic file (type png)
+ <use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [106
+
+]
+File: spee.png Graphic file (type png)
+ <use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[107
+
+]
+File: spee.png Graphic file (type png)
+ <use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [108
+
+]
+File: spee.png Graphic file (type png)
+ <use spee.png>
+Package pdftex.def Info: spee.png used on input line 637.
+(pdftex.def)             Requested size: 153.64493pt x 63.74706pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 637.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[109
+
+] <fface.jpg, id=2968, 301.125pt x 135.50626pt>
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+
+<facef.jpg, id=2969, 301.125pt x 120.45pt>
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [110
+
+ <./fface.jpg> <./facef.jpg>]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+
+<use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [111
+
+]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [112
+
+]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [113
+
+]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [114
+
+]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [115
+
+]
+File: fface.jpg Graphic file (type jpg)
+ <use fface.jpg>
+Package pdftex.def Info: fface.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 49.78294pt.
+File: facef.jpg Graphic file (type jpg)
+ <use facef.jpg>
+Package pdftex.def Info: facef.jpg used on input line 663.
+(pdftex.def)             Requested size: 110.62659pt x 44.25151pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 663
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 663.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [116
+
+] <cad.jpg, id=3153, 278.03876pt x 208.78pt>
+File: cad.jpg Graphic file (type jpg)
+ <use cad.jpg>
+Package pdftex.def Info: cad.jpg used on input line 681.
+(pdftex.def)             Requested size: 245.83282pt x 184.59982pt.
+
+Overfull \vbox (6.28658pt too high) detected at line 681
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 681.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [117
+
+ <./cad.jpg>]
+File: cad.jpg Graphic file (type jpg)
+ <use cad.jpg>
+Package pdftex.def Info: cad.jpg used on input line 681.
+(pdftex.def)             Requested size: 245.83282pt x 184.59982pt.
+
+Overfull \vbox (6.28658pt too high) detected at line 681
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 681.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [118
+
+]
+File: cad.jpg Graphic file (type jpg)
+ <use cad.jpg>
+Package pdftex.def Info: cad.jpg used on input line 681.
+(pdftex.def)             Requested size: 245.83282pt x 184.59982pt.
+
+Overfull \vbox (6.28658pt too high) detected at line 681
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 681.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [119
+
+]
+File: cad.jpg Graphic file (type jpg)
+ <use cad.jpg>
+Package pdftex.def Info: cad.jpg used on input line 681.
+(pdftex.def)             Requested size: 245.83282pt x 184.59982pt.
+
+Overfull \vbox (6.28658pt too high) detected at line 681
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 681.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [120
+
+]
+File: cad.jpg Graphic file (type jpg)
+ <use cad.jpg>
+Package pdftex.def Info: cad.jpg used on input line 681.
+(pdftex.def)             Requested size: 245.83282pt x 184.59982pt.
+
+Overfull \vbox (6.28658pt too high) detected at line 681
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 681.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [121
+
+] <sig.jpg, id=3285, 216.81pt x 207.77625pt>
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+
+<sigg.jpg, id=3286, 258.9675pt x 193.72375pt>
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [122
+
+ <./sig.jpg> <./sigg.jpg>]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [123
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [124
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [125
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [126
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [127
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [128
+
+]
+File: sig.jpg Graphic file (type jpg)
+ <use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 106.01837pt.
+File: sigg.jpg Graphic file (type jpg)
+ <use sigg.jpg>
+Package pdftex.def Info: sigg.jpg used on input line 707.
+(pdftex.def)             Requested size: 110.62659pt x 82.75568pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 707
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 707.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [129
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 721.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [130
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 721.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [131
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 721.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[132
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 721.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [133
+
+]
+<"architecture".jpg, id=3601, 1623.06375pt x 940.51375pt>
+File: "architecture".jpg Graphic file (type jpg)
+
+<use "architecture".jpg>
+Package pdftex.def Info: "architecture".jpg used on input line 737.
+(pdftex.def)             Requested size: 307.28987pt x 178.05367pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 737.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [134
+
+ <./architecture.jpg>]
+File: "architecture".jpg Graphic file (type jpg)
+
+<use "architecture".jpg>
+Package pdftex.def Info: "architecture".jpg used on input line 737.
+(pdftex.def)             Requested size: 307.28987pt x 178.05367pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 737.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [135
+
+]
+<"Music notation".jpg, id=3655, 1043.9pt x 523.9575pt>
+File: "Music notation".jpg Graphic file (type jpg)
+
+<use "Music notation".jpg>
+Package pdftex.def Info: "Music notation".jpg used on input line 765.
+(pdftex.def)             Requested size: 150.57071pt x 75.56815pt.
+ <start.jpg, id=3657, 274.02374pt x 205.76875pt>
+File: start.jpg Graphic file (type jpg)
+
+<use start.jpg>
+Package pdftex.def Info: start.jpg used on input line 765.
+(pdftex.def)             Requested size: 76.82246pt x 57.68706pt.
+
+Overfull \hbox (4.55153pt too wide) detected at line 765
+[][][] $[]$[][][][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 765.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [136
+
+ <./Music notation.jpg> <./start.jpg>]
+File: "Music notation".jpg Graphic file (type jpg)
+
+<use "Music notation".jpg>
+Package pdftex.def Info: "Music notation".jpg used on input line 765.
+(pdftex.def)             Requested size: 150.57071pt x 75.56815pt.
+File: start.jpg Graphic file (type jpg)
+ <use start.jpg>
+Package pdftex.def Info: start.jpg used on input line 765.
+(pdftex.def)             Requested size: 76.82246pt x 57.68706pt.
+
+Overfull \hbox (4.55153pt too wide) detected at line 765
+[][][] $[]$[][][][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 765.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [137
+
+]
+File: "Music notation".jpg Graphic file (type jpg)
+ <use "Music notation".jpg>
+Package pdftex.def Info: "Music notation".jpg used on input line 765.
+(pdftex.def)             Requested size: 150.57071pt x 75.56815pt.
+File: start.jpg Graphic file (type jpg)
+ <use start.jpg>
+Package pdftex.def Info: start.jpg used on input line 765.
+(pdftex.def)             Requested size: 76.82246pt x 57.68706pt.
+
+Overfull \hbox (4.55153pt too wide) detected at line 765
+[][][] $[]$[][][][][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 765.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [138
+
+]
+File: "Music notation".jpg Graphic file (type jpg)
+ <use "Music notation".jpg>
+Package pdftex.def Info: "Music notation".jpg used on input line 765.
+(pdftex.def)             Requested size: 150.57071pt x 75.56815pt.
+File: start.jpg Graphic file (type jpg)
+ <use start.jpg>
+Package pdftex.def Info: start.jpg used on input line 765.
+(pdftex.def)             Requested size: 76.82246pt x 57.68706pt.
+
+Overfull \hbox (4.55153pt too wide) detected at line 765
+[][][] $[]$[][][][][][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 765.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [139
+
+]
+<"musical notations".jpg, id=3766, 1001.7425pt x 830.10126pt>
+File: "musical notations".jpg Graphic file (type jpg)
+
+<use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+ <"ipre".jpg, id=3768, 514.92375pt x 416.30531pt>
+File: "ipre".jpg Graphic file (type jpg)
+
+<use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+ <"ipre2".jpg, id=3769, 456.70625pt x 627.34375pt>
+File: "ipre2".jpg Graphic file (type jpg)
+
+<use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [140
+
+ <./musical notations.jpg> <./ipre.jpg> <./ipre2.jpg>]
+File: "musical notations".jpg Graphic file (type jpg)
+
+<use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+File: "ipre".jpg Graphic file (type jpg)
+ <use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+File: "ipre2".jpg Graphic file (type jpg)
+ <use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [141
+
+]
+File: "musical notations".jpg Graphic file (type jpg)
+ <use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+File: "ipre".jpg Graphic file (type jpg)
+ <use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+File: "ipre2".jpg Graphic file (type jpg)
+
+<use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [142
+
+]
+File: "musical notations".jpg Graphic file (type jpg)
+ <use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+File: "ipre".jpg Graphic file (type jpg)
+ <use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+File: "ipre2".jpg Graphic file (type jpg)
+
+<use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [143
+
+]
+File: "musical notations".jpg Graphic file (type jpg)
+ <use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+File: "ipre".jpg Graphic file (type jpg)
+ <use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+File: "ipre2".jpg Graphic file (type jpg)
+
+<use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [144
+
+]
+File: "musical notations".jpg Graphic file (type jpg)
+ <use "musical notations".jpg>
+Package pdftex.def Info: "musical notations".jpg used on input line 808.
+(pdftex.def)             Requested size: 49.16487pt x 40.73485pt.
+File: "ipre".jpg Graphic file (type jpg)
+ <use "ipre".jpg>
+Package pdftex.def Info: "ipre".jpg used on input line 808.
+(pdftex.def)             Requested size: 54.20544pt x 43.81815pt.
+File: "ipre2".jpg Graphic file (type jpg)
+
+<use "ipre2".jpg>
+Package pdftex.def Info: "ipre2".jpg used on input line 808.
+(pdftex.def)             Requested size: 44.37378pt x 60.94798pt.
+
+Overfull \hbox (4.55151pt too wide) detected at line 808
+[][][] $[]$[][][][][][][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 808.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [145
+
+] <"staf".jpg, id=3932, 261.97874pt x 160.6pt>
+File: "staf".jpg Graphic file (type jpg)
+
+<use "staf".jpg>
+Package pdftex.def Info: "staf".jpg used on input line 833.
+(pdftex.def)             Requested size: 76.82246pt x 47.09232pt.
+ <"staff".jpg, id=3933, 1284.8pt x 722.7pt>
+File: "staff".jpg Graphic file (type jpg)
+ <use "staff".jpg>
+Package pdftex.def Info: "staff".jpg used on input line 833.
+(pdftex.def)             Requested size: 107.55098pt x 60.49686pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 833.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [146
+
+ <./staf.jpg> <./staff.jpg>]
+File: "staf".jpg Graphic file (type jpg)
+ <use "staf".jpg>
+Package pdftex.def Info: "staf".jpg used on input line 833.
+(pdftex.def)             Requested size: 76.82246pt x 47.09232pt.
+File: "staff".jpg Graphic file (type jpg)
+
+<use "staff".jpg>
+Package pdftex.def Info: "staff".jpg used on input line 833.
+(pdftex.def)             Requested size: 107.55098pt x 60.49686pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 833.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [147
+
+]
+File: "staf".jpg Graphic file (type jpg)
+ <use "staf".jpg>
+Package pdftex.def Info: "staf".jpg used on input line 833.
+(pdftex.def)             Requested size: 76.82246pt x 47.09232pt.
+File: "staff".jpg Graphic file (type jpg)
+ <use "staff".jpg>
+Package pdftex.def Info: "staff".jpg used on input line 833.
+(pdftex.def)             Requested size: 107.55098pt x 60.49686pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 833.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [148
+
+]
+File: "staf".jpg Graphic file (type jpg)
+ <use "staf".jpg>
+Package pdftex.def Info: "staf".jpg used on input line 833.
+(pdftex.def)             Requested size: 76.82246pt x 47.09232pt.
+File: "staff".jpg Graphic file (type jpg)
+ <use "staff".jpg>
+Package pdftex.def Info: "staff".jpg used on input line 833.
+(pdftex.def)             Requested size: 107.55098pt x 60.49686pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 833.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [149
+
+]
+File: "staf".jpg Graphic file (type jpg)
+
+<use "staf".jpg>
+Package pdftex.def Info: "staf".jpg used on input line 833.
+(pdftex.def)             Requested size: 76.82246pt x 47.09232pt.
+File: "staff".jpg Graphic file (type jpg)
+ <use "staff".jpg>
+Package pdftex.def Info: "staff".jpg used on input line 833.
+(pdftex.def)             Requested size: 107.55098pt x 60.49686pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 833.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [150
+
+]
+<sym.png, id=4064, 1062.97125pt x 441.14813pt>
+File: sym.png Graphic file (type png)
+ <use sym.png>
+Package pdftex.def Info: sym.png used on input line 846.
+(pdftex.def)             Requested size: 245.83282pt x 102.02063pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 846.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[151
+
+ <./sym.png>]
+File: sym.png Graphic file (type png)
+ <use sym.png>
+Package pdftex.def Info: sym.png used on input line 846.
+(pdftex.def)             Requested size: 245.83282pt x 102.02063pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 846.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [152
+
+]
+File: sym.png Graphic file (type png)
+ <use sym.png>
+Package pdftex.def Info: sym.png used on input line 846.
+(pdftex.def)             Requested size: 245.83282pt x 102.02063pt.
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 846.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [153
+
+]
+File: sym.png Graphic file (type png)
+ <use sym.png>
+Package pdftex.def Info: sym.png used on input line 846.
+(pdftex.def)             Requested size: 245.83282pt x 102.02063pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 846.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [154
+
+]
+
+LaTeX Warning: File `final stucture.jpg' not found on input line 861.
+
+<final stucture.jpg, id=4170, 1729.46124pt x 1084.05pt>
+File: final stucture.jpg Graphic file (type jpg)
+
+<use final stucture.jpg>
+Package pdftex.def Info: final stucture.jpg used on input line 861.
+(pdftex.def)             Requested size: 245.83282pt x 154.08174pt.
+
+Overfull \vbox (4.5754pt too high) detected at line 861
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 861.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [155
+
+ <./final stucture.jpg>]
+
+LaTeX Warning: File `final stucture.jpg' not found on input line 861.
+
+File: final stucture.jpg Graphic file (type jpg)
+<use final stucture.jpg>
+Package pdftex.def Info: final stucture.jpg used on input line 861.
+(pdftex.def)             Requested size: 245.83282pt x 154.08174pt.
+
+Overfull \vbox (4.5754pt too high) detected at line 861
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 861.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [156
+
+]
+
+LaTeX Warning: File `final stucture.jpg' not found on input line 861.
+
+File: final stucture.jpg Graphic file (type jpg)
+<use final stucture.jpg>
+Package pdftex.def Info: final stucture.jpg used on input line 861.
+(pdftex.def)             Requested size: 245.83282pt x 154.08174pt.
+
+Overfull \vbox (4.5754pt too high) detected at line 861
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 861.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [157
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [158
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [159
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[160
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [161
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [162
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [163
+
+]
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 878.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [164
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [165
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [166
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[167
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [168
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [169
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 895.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [170
+
+]
+<conclusion.jpg, id=4591, 481.8pt x 481.8pt>
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [171
+
+ <./conclusion.jpg>]
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [172
+
+]
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [173
+
+]
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [174
+
+]
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [175
+
+]
+File: conclusion.jpg Graphic file (type jpg)
+ <use conclusion.jpg>
+Package pdftex.def Info: conclusion.jpg used on input line 918.
+(pdftex.def)             Requested size: 92.1879pt x 92.18254pt.
+
+Overfull \hbox (35.2824pt too wide) detected at line 918
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+File: thmb.jpg Graphic file (type jpg)
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 918.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [176
+
+] <freq.jpg, id=4749, 746.01291pt x 559.50967pt>
+File: freq.jpg Graphic file (type jpg)
+
+<use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+ <compression.jpg, id=4750, 903.375pt x 351.3125pt>
+File: compression.jpg Graphic file (type jpg)
+
+<use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+ <videoface.png, id=4751, 953.5625pt x 536.0025pt>
+File: videoface.png Graphic file (type png)
+
+<use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+ <colorface.jpg, id=4752, 642.4pt x 401.5pt>
+File: colorface.jpg Graphic file (type jpg)
+
+<use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [177
+
+ <./freq.jpg> <./compression.jpg> <./videoface.png> <./colorface.jpg>]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+
+<use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [178
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+
+<use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[179
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+
+<use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [180
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+
+<use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [181
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+
+<use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[182
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+
+<use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [183
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+
+<use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [184
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+
+<use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+ <use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[185
+
+]
+File: freq.jpg Graphic file (type jpg)
+ <use freq.jpg>
+Package pdftex.def Info: freq.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 57.6105pt.
+File: compression.jpg Graphic file (type jpg)
+ <use compression.jpg>
+Package pdftex.def Info: compression.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 29.87456pt.
+File: videoface.png Graphic file (type png)
+ <use videoface.png>
+Package pdftex.def Info: videoface.png used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 43.1755pt.
+File: colorface.jpg Graphic file (type jpg)
+
+<use colorface.jpg>
+Package pdftex.def Info: colorface.jpg used on input line 961.
+(pdftex.def)             Requested size: 76.82246pt x 48.0125pt.
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 961.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [186
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [187
+
+ <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/base/art/beamericonarticle.pdf>]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+
+[188
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [189
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [190
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [191
+
+]
+File: thmb.jpg Graphic file (type jpg)
+
+<use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 976.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+ [192
+
+]
+File: thmb.jpg Graphic file (type jpg)
+ <use thmb.jpg>
+Package pdftex.def Info: thmb.jpg used on input line 981.
+(pdftex.def)             Requested size: 364.19536pt x 227.44254pt.
+Package atenddvi Info: Last page = 193.
+ [193
+
+]
+\tf@nav=\write6
+\openout6 = `"Pattern Recognition.nav"'.
+
+\tf@toc=\write7
+\openout7 = `"Pattern Recognition.toc"'.
+
+\tf@snm=\write8
+\openout8 = `"Pattern Recognition.snm"'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 984.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 984.
+ ("Pattern Recognition.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 984.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 984.
+Package rerunfilecheck Info: File `"Pattern Recognition".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 984.
+ ) 
+Here is how much of TeX's memory you used:
+ 32976 strings out of 493634
+ 688186 string characters out of 3143741
+ 1091690 words of memory out of 3000000
+ 35296 multiletter control sequences out of 15000+200000
+ 19838 words of font info for 72 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 60i,18n,71p,10384b,1051s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmssi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "Pattern Recognition.pdf" (193 pages, 5627886 bytes).
+PDF statistics:
+ 5365 PDF objects out of 6186 (max. 8388607)
+ 389 named destinations out of 1000 (max. 500000)
+ 414 words of extra memory for PDF output out of 10000 (max. 10000000)
+
