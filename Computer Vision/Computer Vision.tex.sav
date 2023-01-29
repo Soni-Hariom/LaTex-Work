@@ -1,0 +1,16 @@
+\documentclass{beamer}
+\title{Computer Vision}
+\author{Ajit Yadav}
+\institute{Department of Mathematics}
+\usepackage{amssymb}
+\usepackage{color}
+\usetheme{Berkeley}
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+\begin{frame}{What is Computer Vision?}
+As humans can see \& analyse things and can take sufficiently action in fractions of seconds, the same capabilty introducing in computers is the \textbf{Computer Vision}
+\end{frame}
+\end{document} 

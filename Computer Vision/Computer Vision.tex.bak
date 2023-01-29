@@ -1,0 +1,21 @@
+\documentclass{beamer}
+\title{Computer Vision}
+\author{Ajit Yadav}
+\usetheme{Berkeley}
+\usepackage{color,graphicx,amssymb,pict2e}
+\date{\today}
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+\begin{frame}{Applications}
+
+There is a huge applications of Computer Vision(CV) in real Life.\\
+
+
+\end{frame}
+
+\begin{frame}
+\includegraphics[scal=0.4]{app}
+\end{frame}
+\end{document} 
