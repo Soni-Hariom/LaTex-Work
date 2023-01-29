@@ -1,0 +1,329 @@
+
+
+\documentclass[12pt]{article}
+
+
+\usepackage{color}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amsthm,amssymb,color}
+%\usepackage{setlength}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+ \date{}
+
+\usepackage{xcolor}
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfdefinestyle{MyFrame}{%
+    linecolor=black,
+    outerlinewidth=2pt,
+    roundcorner=20pt,
+    innertopmargin=\baselineskip,
+    innerbottommargin=\baselineskip,
+    innerrightmargin=20pt,
+    innerleftmargin=20pt,
+    backgroundcolor=gray!50!white}
+
+
+
+\title{\underline{Exercises}}
+
+\author{Book: \hspace{.1cm}Elementary Analysis The Theory Of Calculus\\\\Author: Kenneth A. Ross \\\\Lesson: Continuity of Function \\\\ Written By: B.Sc.(H) Students \\\\ Department: Department of Mathematics \\\\ College:  Motilal Nehru College\\ \hspace{2cm}University of Delhi\\\\\\ \underline{Topic: $\ll$18$\gg$ Properties of Continuous Functions}}
+
+%\DeclareUnicodeCharacter{2212}{-}
+
+\begin{document}
+
+\centering{
+\begin{mdframed}[style=MyFrame]
+\maketitle
+\end{mdframed}
+\pagebreak
+\title{\underline{Members Details}}}\\
+
+\vspace{1cm}
+\underline{NAME} \hspace{3cm}  \hspace{6cm} \underline{ ROLL NO.}
+
+\begin{itemize}
+	\item Prince              \hspace{10cm}    MTH17085
+	\item Bhupender           \hspace{9.3cm}   MTH17087
+	\item Khubaib             \hspace{9.7cm}   MTH17088
+	\item Karan Yadav         \hspace{9.cm}   MTH17089
+	\item Ajit Yadav          \hspace{9.4cm}   MTH17090
+	\item Munna Kumar Yadav   \hspace{7.5cm}   MTH17091
+	\item Pooja Ahuja         \hspace{9.2cm}   MTH17092
+	\item Govind Shahu        \hspace{9.cm}    MTH17094 
+	\item Anshul Attri        \hspace{9.2cm}   MTH17095
+	\item Hariom              \hspace{10.2cm}   MTH17097
+	
+	\end{itemize}
+	\vspace{1cm}
+\begin{mdframed}[style=MyFrame]
+Note:- Govind Shahu isn't attend his question.
+\end{mdframed}
+\pagebreak
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question No. 18.1}:-} Let $f$ be a continuous real-valued function on a closed interval $[a, b]$.Then $f$ is a bounded function. Moreover, $f$ assumes its maximum and minimum values on $[a, b];$ that is, there exist $x_{0}, y_{0}$ in $[a, b]$ such that $f(x_{0}) \leq f(x) \leq f(y_{0})$ for all $x \in [a, b]$. Show that if $−f $ assumes its maximum at $x_{0} \in [a, b]$, then $f$ assumes its minimum at $x_{0}$.\\
+\end{mdframed}
+\vspace*{1cm}
+
+\textbf{\underline{Proof}:-} Consider the continuous function $f$ on $[a,b]$. Then it is bounded.Let $M$ and $m$ be the superimum and infimum of $f$ in $[a,b]$ respectively.Given that $-f$ assumes its maximum at $x_{0} \in [a,b]$ , $\exists$ a positive integer $M$ such that  $$-f(x) \leq M ,x \in [a,b]$$.  Here $  M = f(x_{0})$ i.e.,$$-f(x) \leq f(x_0) , x \in[a,b] \ldots (i)$$
+since the function under consideration is $f(x)$, therefore multiply $eq^{n}$ (i) by $-1$
+$$\Rightarrow f(x) \geq -f(x_0)$$
+ $$-f(x_0) \leq f(x)$$\\ $\Rightarrow \exists$ positive integer m such that$$ m \leq f(x)$$\\also,          $$inf (f(x)) = -sup(-f(x))$$
+ $$ i.e., inf (f(x)) = -sup(-f(x))$$
+ $$m = -f(x_0)$$
+ This gives ,$$m \leq f(x) , x \in [a,b]$$Hence , by definition $f$ assume its minimum at$x_0 \in [a,b].$
+\pagebreak
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question No. 18.2}:-} Reread the proof of Theorem 18.1 with [a, b] replaced by\\ (a, b). Where does it break down? Discuss.\\
+\end{mdframed}
+ \vspace*{1cm}
+
+\textbf{\underline{Solution}:-} By the proof of theorem $18.1$, we assume that$f$ is not bounded on $ (a,b)$. Then to each $n\in \N$, these corresponds an $x_n\in(0,b)$ such that $|{f(x_n)}|>n$. By Bolzano-Weirstrass theorem,$ (x_n)$ has a subsequence $(x_{n_{k}})$ that converges to some real number $x_{0}$.If the interval is not closed these is possibility that a function may be either unbounded or may not have maximum and minimum value.The proof breaks down  at the assertion that $x_{0}$, which is defined as the limit of the convergent subsequence $(x_{n_{k}})$ is in the interval $(a,b)$. Indeed, we would only know that this point is in the closed interval$ [a,b]$. ${S_{n}}$ is a convergent sequence with $a\textless {S_{n}}\textless b$ then $a\leq \lim_{n\to \infty} \leq b$.But since $(a,b)$ is an open interval $a,b$ are not the end points included in the interval.Hence limit of $S_{n}$ cannot be founded.\\
+
+\vspace*{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question18.3}:-} Not in syllabus.\\
+\end{mdframed}
+\vspace*{1cm}
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question18.4}:-} Let $\mathcal{S} \subseteq \mathbb{R}$ and suppose there exists a sequence $(x_{n})$ in $\mathcal{S}$ converging to a number $x_{0}\notin \mathcal{S} $. Show there exists an unbounded continuous
+function on $\mathcal{S}$.\\
+\end{mdframed}
+
+\vspace*{1cm}
+\textbf{\underline{Solution}:-} Let $\mathcal{S} \subset \mathbb{R}$. Suppose there exists a sequence $(x_{n})$ in $\mathcal{S}$ such that $x_{n} \rightarrow x_{0} \notin \mathcal{S}$.
+Let$ f(x) = \frac{1}{x-x_{0}}$.Then $f$ is well-defined on $\mathcal{S}$ since $x_{0} \in \mathcal{S}$, and is continuous since
+it is a quotient of continuous functions such that the denominator is nonzero. Now
+for any $\mathcal{M} > 0$, choose $\mathcal{N} $such that $n > \mathcal{N}$ implies $|x_{n} - x_{0}| < \frac{1}{\mathcal{M}}$
+. Then for $n > \mathcal{N}$,
+$|f(x_{n}| =\frac{1}{|x_{n}-x_{0}|} > \mathcal{M}.$ Since $ \mathcal{M} $ was arbitrary, $f$ is unbounded on $\mathcal{S}$.\\
+
+\vspace*{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question-18.5}:-}(a)  Let $f$ and $g$ be continuous functions on $[a,b]$ such that $f(a)\geq g(a)$ and $f(x)\leq g(x)$. Prove that  $f(x) = g(x)$ for at least one $x$ in $[a,b]$.\\
+\end{mdframed}
+\vspace*{1cm}
+\textbf{\underline{Solution}:-}Define $h : [a, b] \rightarrow R $ by $ h(x) := f(x) - g(x).$  $h$ is continuous on $[a, b].$ \flushleft{Furthermore,}
+$$h(a) = f(a) − g(a) \geq 0,$$\\
+$$h(b) = f(b) − g(b) \leq 0.$$\\
+So $h(a) \geq 0 \geq h(b)$, so we can apply the intermediate value theorem to find an $x_{0} \in [a, b]$ satisfying
+$h(x_{0}) = 0. Thus, f(x_{0}) = g(x_{0}).$\\
+
+\vspace*{1cm}
+
+\begin{mdframed}[style=MyFrame]
+(b) Show that Example 1 in the text is a special case of part (a).\\
+\end{mdframed}
+\vspace*{1cm}
+Proof : We take $f$ defined on $[0, 1]$ as in the example, and $g(x) = x.$ The fact that $f(x) \in [0, 1]$ for all $x$
+implies, in particular, that
+$$f(0) \geq 0 = g(0),$$\\
+$$f(1) \leq 1 = g(1),$$\\
+and we are looking for a point $x_{0} $ where $f(x_{0}) = x_{0} = g(x_{0}).$
+\vspace{.5cm}
+
+\centering{Hence proved}
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+{\bf{\underline{Question 18.6}:-}} Prove $x=cosx$ for some $x$ in (0,$\frac{\pi}{2}$).\\
+\end{mdframed}
+
+\vspace{1cm}
+\textbf{\underline{Proof}:-} Consider the function $f(X)=cos(x)-x$ which is a continuous function since both $cosx$ and $x$ are continuous.
+Then, $f(0)=1$ and $f(\frac{\pi}{2})=f(\frac{-\pi}{2}) = 0$
+Thus, by \textbf{Intermediate Value Theorem}, there is some $c\in(0,\frac{\pi}{2})$ such that $f(c)=0$. This means exactly that $cos(x)=x$ has a solution in the interval $(0,\frac{\pi}{2}).$
+
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question 18. 7}:-} Prove $x{e^x}=2$ for some x in $(0,1)$.
+\end{mdframed}
+\vspace*{1cm}
+
+\textbf{\underline{Solution}:-} Let $f(x)=x{e^x}$ implying $f(0)=0<2$ and $f(1)=e>2$ and by the intermediate value theorem there must exist some $x\epsilon{[0,1]}$ such that $f(x)=2$.\\
+But this is for a closed interval $[0,1]$.
+For open interval $(0,1)$,if $f(x)=2$ is some point in the interval $[0,1]$,and we know for a fact that its not 0 or 1,we therefore know that $f(x)=2$ is in the interval $(0,1)$.
+
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+ \textbf{\underline{Question 18.8} :-} Suppose $f$ is a real valued continous function $\mathbb{R}$ and \\  $f(a)f(b)<0$, for some a, b $\in \mathbb{R}$.Prove there exists $x$ between such that $f(x)=0$\\
+ \end{mdframed}
+ \vspace*{1cm}
+ \textbf{\underline{Solution} :-}
+ $f$ is a real valued continous function on $\mathbb{R}$
+ and given $f(a)f(b)<0$.\\
+ $$\Rightarrow f(a)f(b)<0$$
+ $$f(a)<0$$
+ $$\Rightarrow f(a)f(b)<0$$
+ $$f(a)<0$$
+ $$f(a) \in I^{-}$$
+ Let $f(a)=-m$
+ then,\\
+ \begin{eqnarray*}
+ 	&=&-mf(b)<0\\
+ 	&=&mf(b)>0\\
+ 	&=&f(b)> 0,
+ \end{eqnarray*}
+ $$f(b) \in I^{+}$$\\
+ Let $f(b) = j,$\\
+ Hence,$f(x)$ is continous over (-m,j).\\
+ Hence,$f(x)$ follows IMV property on [-m,j].\\
+ Since 0 $\in$ (-m,j),\\
+ then,by IMV,$\exists$ $x_{0}$ $\in \mathbb{R}$\\
+ such that $f(x_{0})=0$\\
+
+ 
+ \centering{\item Hence Proved.}
+ 
+
+ \vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{ Question 18.9:-}} Prove that a polynomial function f of odd degree has at least one real root.\\
+\end{mdframed}
+\vspace*{1cm}
+ \textbf{\underline{Solution}:-} Let $p(x)$ be a polynomial of odd degree\\
+ then\\
+ $$p(x)=a_0+a_1x+\cdots+a_mx^m$$ for m is odd.\\
+ Assume $a_m=1$, \\
+ $$\lim_{x\rightarrow-\infty}p(x)=-\infty$$
+
+ $\Rightarrow  p(x)<0$ for some $x$  and $p(x)>0$ for some other $x$.
+ \begin{equation}
+ p(x) = x^n\left[1+\frac{a_0+a_1x+\cdots+a_{n-1}x^{n-1}}{x^n}\right]
+ \end{equation}
+ Let $ c=1+|a_0|+|a_1|+\cdots+\|a_{n-1}|.$\\
+ If $|x|>c$, then\\
+ $|a_0+a_1x+\cdots+a_{n-1}x^{n-1}|\leq\left(|a_0|+|a_1|+\cdots+|a_{n-1}|\right)|x|$
+ $<|x|^n$\\
+
+ So,the number in brackets in (1) is positive . Now if $x>c$, then $x^n>0$. So, $f(x)>0$.\\
+ And if $x<-c$, then $x^n<0$. So, $f(x)<0$.
+
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question 18.10}:-} Suppose that  $f$ is continuous on $[0,2]$and  $f(0)=f(2)$.Prove that there exist ${x,y}$ in [0,2] such that $|y-x|$ and $f(x)=f(y).$
+
+\vspace{.4cm}
+
+Hint:Consider $g(x)=f(x+1)-f(x)$on [0,1]
+\end{mdframed}
+\vspace*{1cm}
+
+
+\textbf{\underline{Proof}:-} Given:$f$ is continuous on [0,2]. $f(0)=f(2)$
+
+\vspace{.3cm}
+
+To prove that $f(x)=f(y)$, where $|y-x|=1$
+
+\vspace{.3cm}
+
+Consider $g(x)=f(x+1)-f(x)$ on[0,1]
+
+\vspace{.3cm}
+
+Then $g(0)$=$f(1)-f(0)=f(1)-f(2)$
+
+\vspace{.3cm}
+
+$g(1)=f(2)-f(1)$
+
+\vspace{.3cm}
+
+$g(0)=-g(1)$
+
+\vspace{.3cm}
+
+$\Rightarrow$  at same point $g(x)=0$
+
+\vspace{.3cm}
+
+$ \Rightarrow f(x+1)=f(x)$
+
+\vspace{.3cm}
+
+Take $y=x+1 $
+
+\vspace{.3cm}
+
+$f(y)=f(x)$
+
+\vspace{.4cm}
+
+Thus, $g$ is a continuous function on [0,1] is satisfy Intermediate Value Theorem on [0,1].
+
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\textbf{\underline{Question 18.11}:- } State and prove Theorem 18.5 for strictly decreasing functions.\\
+\end{mdframed}
+\vspace*{1cm}
+\textbf{\underline{Solution}:-}Theorem 18.5: \textbf{Statement} \emph{Let g be a strictly decreasing function on an interval J such that g(J) is an interval I.Then g is continuous on J.}\\
+\vspace*{.5cm}
+\textbf{\underline{Proof}:-} Consider $x_0$.We assume $x_0$ is not an endpoint of J; Then $g(x_0)$ is not an endpoint of I, So there exists $\epsilon_0 > 0$ such that $(g(x_0)-\epsilon_0,g(x_0)+\epsilon_0)\subseteq{I}$.\\
+Let $\epsilon>0$.Assuming $\epsilon<\epsilon_0$.Then there exists $x1,x2\epsilon J$ such that $x1<x2$ and $g(x1)=g(x_0)-\epsilon$ and $g(x2)=g(x_0)+\epsilon$.For a strictly decreasing function if x1<x2 then $g(x1)>g(x2)$.So,$x1<x_0<x2$.Also,if $x1<x<x2$,then $g(x1)>g(x)>g(x2)$,hence $g(x_0)-\epsilon >g(x)>g(x_0)+\epsilon$,
+and hence $|g(x_0)-g(x)|<\epsilon$.Now if $\delta=$min$(x2-x_0,x_0-x1)$,then $|x_0-x|<\delta$ implies $x1>x>x2$ and hence $|g(x_0)-g(x)|<\epsilon$.
+
+\vspace{1cm}
+
+\begin{mdframed}[style=MyFrame]
+\flushleft{\textbf{\underline{Question 18.12}:-} Let $ f(x) = \sin\left(\frac{1}{x}\right)$ for $x\neq0$ and let $f(0)=0.$}
+
+\begin{itemize}
+\item [(a)] \emph{Observe that f is discontinuous at $0$.}
+	\item [(b)] \emph{Show f has the intermediate value property on R.}
+\end{itemize}
+\end{mdframed}
+\vspace*{1cm}
+
+\textbf{\underline{Solution}:-}
+$$
+f(x)=
+\left\{
+\begin{array}{lcr}
+\sin\left(\frac{1}{x}\right) & , & x \neq 0 \\
+0 & , & x=0
+\end{array}\right\}
+$$
+
+\begin{itemize}
+	\item [(a)] To prove discontinuity of f at 0,we find a sequence $(x_n)$ converging to 0 such that $f(x_n)$ does not converge to $f(0)=0$.\\
+	So we will arrange for\\$$\sin\left(\frac{1}{x_n}\right)=\frac{1}{x_n}$$
+	where $x_n$ converges to 0.\\
+	Thus,we want $$\sin\left(\frac{1}{x_n}\right)=1,$$
+	
+	$ \Rightarrow \hspace{4cm}  \frac{1}{x_n} = (2n\pi+\pi/2) $ \\
+	$$ x_n=\frac{1}{ (2n\pi+\pi/2)} $$
+	Then,$ \lim_{n\rightarrow\infty}x_n = \lim_{n\rightarrow\infty}\frac{1}{(2n\pi+\pi/2)}=0 $\\
+	while
+	$$\lim_{n\rightarrow\infty}f(x_n)=\lim_{n\rightarrow\infty}\sin\left(\frac{1}{x_n}\right)$$
+	
+	$$=1$$
+	
+	$ \Rightarrow \hspace{2cm} \lim_{n\rightarrow\infty}x_n \neq \lim_{n\rightarrow\infty}f(x_n) $ \\
+	
+	\textbf{Since,for every sequence $x_n$ converging to $0$,$\lim f(x_n) \neq f(0)$.Hence f is discontinuous at 0.}
+\end{itemize}
+
+\begin{itemize}
+	\item [(b)] Now if we take the interval $$I=\left[{-2/\pi},2/\pi\right]$$
+	
+	then f is discontinuous at $0\in I,$but $$f\left({-2/\pi}\right)=-1$$\\
+	$$f\left(2/\pi\right)=1$$
+	We get $1/\pi\in\left[{-2/\pi},2/\pi\right]$\\where $$\sin\left(\frac{1}{x}\right)=0$$
+	
+	\textbf{Therefore,this function satisfies intermediate value property although it is discontinuous.}
+\end{itemize}
+
+$${\LARGE \cdots}$$
+
+\end{document} 
